@@ -19,7 +19,7 @@ export const skillsData = [
   'Azure',
   'Bootstrap',
   'Docker',
-  'Blob',
+  'blob',
   'Azure App Slot',
   'Azure Intra ID',
   'Figma',
