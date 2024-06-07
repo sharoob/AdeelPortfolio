@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor Degree in Computer Science",
+    duration: "2004",
+    institution: "PIMSAT - Karachi",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Speciliazation in .Net - MSSQL Development - N.E.D University Karachi.",
+    duration: "2006 - 2007",
+    institution: "N.E.D University - Karachi",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Higher Secondary Certificate",
+    duration: "1999 - 2000",
+    institution: "Little Flower Secondary School - Karachi",
   }
 ]

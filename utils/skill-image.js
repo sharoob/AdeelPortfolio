@@ -13,6 +13,7 @@ import capacitorjs from '/public/svg/skills/capacitorjs.svg';
 import coffeescript from '/public/svg/skills/coffeescript.svg';
 import cplusplus from '/public/svg/skills/cplusplus.svg';
 import csharp from '/public/svg/skills/csharp.svg';
+import blob from '/public/svg/skills/blob.svg';
 import css from '/public/svg/skills/css.svg';
 import dart from '/public/svg/skills/dart.svg';
 import deno from '/public/svg/skills/deno.svg';
@@ -81,6 +82,8 @@ export const skillsImage = (skill) => {
       return gcp;
     case 'html':
       return html;
+      case 'blob':
+      return blob;
     case 'photoshop':
       return photoshop;
     case 'docker':
