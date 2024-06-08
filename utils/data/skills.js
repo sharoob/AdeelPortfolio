@@ -1,5 +1,5 @@
 export const skillsData = [
-  '.Net Core',
+  'DotNet Core',
   'c#',
   'MVC',
   '.Net Frameworks',
@@ -21,7 +21,7 @@ export const skillsData = [
   'Docker',
   'blob',
   'Figma',
-  'Oracle',
+  'Oracle DB',
   'Strapi'
 ]
 
