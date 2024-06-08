@@ -75,6 +75,7 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import oracle from '/public/svg/skills/oracle.svg';
+import DotNet from '/public/svg/skills/.Net.svg';
 
 
 export const skillsImage = (skill) => {
@@ -230,10 +231,13 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
-      case 'DotNet Core':
+      case 'Core':
       return dotnetCore;
-      case 'Oracle DB':
+      case 'Oracle':
       return oracle;
+      case 'Core':
+      return DotNet;
+      
     default:
       break;
   }
