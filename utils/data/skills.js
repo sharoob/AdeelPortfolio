@@ -1,13 +1,13 @@
 export const skillsData = [
   '.Net Core',
-  'csharp',
-  'ASP.NET MVC',
+  'c#',
+  'MVC',
   '.Net Frameworks',
   'HTML',
   'CSS',
   'Javascript',
   'Angular',
-  'MSSQL Databases',
+  'MSSQL DB',
   'Typescript',
   'React',
   'AWS',
@@ -20,10 +20,8 @@ export const skillsData = [
   'Bootstrap',
   'Docker',
   'blob',
-  'Azure App Slot',
-  'Azure Intra ID',
   'Figma',
-  'Oracle DB',
+  'Oracle',
   'Strapi'
 ]
 

@@ -19,6 +19,7 @@ import dart from '/public/svg/skills/dart.svg';
 import deno from '/public/svg/skills/deno.svg';
 import django from '/public/svg/skills/django.svg';
 import docker from '/public/svg/skills/docker.svg';
+import dotnetCore from '/public/svg/skills/dotnetCore.svg';
 import fastify from '/public/svg/skills/fastify.svg';
 import figma from '/public/svg/skills/figma.svg';
 import firebase from '/public/svg/skills/firebase.svg';
