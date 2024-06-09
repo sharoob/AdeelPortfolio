@@ -19,7 +19,7 @@ import dart from '/public/svg/skills/dart.svg';
 import deno from '/public/svg/skills/deno.svg';
 import django from '/public/svg/skills/django.svg';
 import docker from '/public/svg/skills/docker.svg';
-import dotnetCore from '/public/svg/skills/dotnetCore.svg';
+import dotnetcore from '/public/svg/skills/dotnetCore.svg';
 import fastify from '/public/svg/skills/fastify.svg';
 import figma from '/public/svg/skills/figma.svg';
 import firebase from '/public/svg/skills/firebase.svg';
@@ -75,7 +75,7 @@ import webix from '/public/svg/skills/webix.svg';
 import wolframalpha from '/public/svg/skills/wolframalpha.svg';
 import wordpress from '/public/svg/skills/wordpress.svg';
 import oracle from '/public/svg/skills/oracle.svg';
-import DotNet from '/public/svg/skills/.Net.svg';
+import dotnet from '/public/svg/skills/.Net.svg';
 
 
 export const skillsImage = (skill) => {
@@ -231,12 +231,12 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
-    case 'Core':
-      return dotnetCore;
-    case 'Oracle':
+    case 'core':
+      return dotnetcore;
+    case 'oracle':
       return oracle;
-    case 'Core':
-      return DotNet;
+    case 'core':
+      return dotnet;
     default:
       break;
   }
