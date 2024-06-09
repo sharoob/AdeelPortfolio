@@ -231,13 +231,12 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case 'canva':
       return canva;
-      case 'Core':
+    case 'Core':
       return dotnetCore;
-      case 'Oracle':
+    case 'Oracle':
       return oracle;
-      case 'Core':
+    case 'Core':
       return DotNet;
-      
     default:
       break;
   }
