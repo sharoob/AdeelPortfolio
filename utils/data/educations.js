@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree in Computer Science",
-    duration: "2004",
+    duration: "2007",
     institution: "PIMSAT - Karachi",
   },
   {
